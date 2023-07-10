@@ -1,0 +1,15 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.skip-orange {
+    color: orange;
+}
+
+.resttext-color {
+    color: rgb(78, 70, 70);
+}
