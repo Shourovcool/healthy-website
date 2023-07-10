@@ -10,8 +10,12 @@ h1 {
     color: orange;
 }
 
+.headrest-color {
+    color: rgba(58, 50, 50, 0.863);
+}
+
 .resttext-color {
-    color: rgb(78, 70, 70);
+    color: rgba(99, 88, 88, 0.87);
 }
 
 .order-link {
@@ -26,6 +30,7 @@ h1 {
 
 .display-flex {
     display: flex;
+    margin-bottom: 150px;
 }
 
 .half-width {
@@ -33,6 +38,9 @@ h1 {
     margin-left: 5%;
 }
 
-.half-width img {
-    width: 80%;
+
+
+.headsize {
+    font-size: 33px;
+    color: rgba(92, 85, 85, 0.884);
 }
