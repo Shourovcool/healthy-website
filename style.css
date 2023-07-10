@@ -74,12 +74,13 @@ h1 {
 }
 
 .exp-item {
-    margin-left: 3%;
-    margin-right: 3%;
-    padding-top: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 40px;
     padding-left: 5%;
     box-shadow: 1px 1px 20px grey;
     border-radius: 20px;
+    padding-bottom: 70px;
 }
 
 .boxing {
