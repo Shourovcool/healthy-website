@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 50px;
 }
 
 .skip-orange {
@@ -12,4 +12,27 @@ h1 {
 
 .resttext-color {
     color: rgb(78, 70, 70);
+}
+
+.order-link {
+    background-image: linear-gradient(to right, rgb(226, 144, 36), rgb(226, 76, 50));
+    padding: 15px 30px;
+    border-radius: 25px;
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.display-flex {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    margin-left: 5%;
+}
+
+.half-width img {
+    width: 80%;
 }
