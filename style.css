@@ -74,9 +74,40 @@ h1 {
 }
 
 .exp-item {
-    margin-right: 20%;
+    margin-left: 3%;
+    margin-right: 3%;
     padding-top: 20px;
     padding-left: 5%;
     box-shadow: 1px 1px 20px grey;
     border-radius: 20px;
+}
+
+.boxing {
+    box-shadow: 1px 1px 5px rgba(211, 199, 199, 0.842);
+    margin: 5% 20%;
+    padding: 3% 5%;
+}
+
+.forht {
+    font-size: 35px;
+    font-weight: 2000;
+}
+
+.forpt {
+    font-size: small;
+}
+
+.hello {
+    text-align: center;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
+
+.hello p {
+    color: white;
+}
+
+.coloring {
+    color: rgb(104, 99, 99);
 }
